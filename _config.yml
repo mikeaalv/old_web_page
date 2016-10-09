@@ -1,6 +1,6 @@
 
 title: Personal website
-url: 'http://mikeaalv.github.io'
+url: 'https://github.com/mikeaalv/'
 baseurl: '/mikeaalv.github.io' #change it according to your repository name
 
 
@@ -23,6 +23,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 email: yuewu_mike@163.com
 github: mikeaalv
 #phone: TBD
-website: mikeaalv.github.io.com #do not add http://
+website: github.com/mikeaalv/mikeaalv.github.io #do not add http://
 #linkedin: TBD
 #twitter: '@TBD'
